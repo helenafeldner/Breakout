@@ -17,5 +17,6 @@ Design patterns used: Factory Pattern, Publisher-Subscriber Pattern, and State P
 Preview
 
 Below is a screenshot from the running game:
+
 <img width="315" alt="image" src="https://github.com/user-attachments/assets/730c7ea7-e5e5-4769-b16e-1e9e38752b01" />
 
